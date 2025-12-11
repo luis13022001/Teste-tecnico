@@ -1,0 +1,5 @@
+api\LoginApiTests.class
+config\Config.class
+ui\Page\LoginPage.class
+api\LoginApi.class
+ui\Tests\LoginUITest.class
